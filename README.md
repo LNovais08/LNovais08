@@ -1,1 +1,1 @@
-## Olá! Eu sou a LNovais  :vulcan_salute:	
+## Olá! Eu sou a LNovais  :woman_technologist:		
