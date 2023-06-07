@@ -5,6 +5,5 @@
 ![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Cosme Teixeira Silva](https://github-readme-stats.vercel.app/api?username=CosmeTSilva&show_icons=true&bg_color=00000000)
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.  :desktop_computer:
