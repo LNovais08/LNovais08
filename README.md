@@ -8,4 +8,4 @@
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.  :desktop_computer:
+Encantada por tecnologia, apaixonada por educação e dedicada a transformar vidas por meio da programação. :desktop_computer:
